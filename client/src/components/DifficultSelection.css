@@ -1,0 +1,31 @@
+/* src/components/DifficultySelection.css */
+.difficulty-selection {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    background-color: #5c94fc;
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .difficulty-selection h2 {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #e60000;
+  }
+  
